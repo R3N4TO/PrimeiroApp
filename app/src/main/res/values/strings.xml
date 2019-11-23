@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="hello_senai_jandira">Hello SENAI Jandira!</string>
+    <string name="ok">OK</string>
+</resources>
